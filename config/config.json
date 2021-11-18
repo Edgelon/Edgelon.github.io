@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x3Fd1eF9BBF78b5CFEA2939afdF1db1421338616C",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x3fd1ef9bbf78b5cfea2939afdf1db1421338616c",
+  "CONTRACT_ADDRESS": "0x231D3b61CB5B66ffdF5Cfcc4655DA31ACcad400F",
+  "SCAN_LINK": "https://etherscan.io/address/0x231d3b61cb5b66ffdf5cfcc4655da31accad400f",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Edgelon NFTs",
-  "SYMBOL": "EDGELON NFT",
+  "NFT_NAME": "Edgelon NFT",
+  "SYMBOL": "EDGENFT",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 69000000000000000,
   "DISPLAY_COST": 0.069,
